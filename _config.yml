@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhen Huang (黄臻)"
   avatar           : "profile.png"
-  bio              : "ACM Honors Class, Shanghai Jiao Tong University"
+  bio              : "Undergraduate in ACM Honors Class, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
   publications:
     output: true
