@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhen Huang (黄臻)"
   avatar           : "profile.png"
-  bio              : "Undergraduate in ACM Honors Class, Shanghai Jiao Tong University"
+  bio              : "Undergraduate student in ACM Honors Class, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : xmhuangzhen@sjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
