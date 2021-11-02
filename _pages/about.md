@@ -14,11 +14,15 @@ I am an undergraduate student in [ACM Honors Class](https://acm.sjtu.edu.cn/home
 
 
 
+
+
 # Projects
 
 - [**Mx Compiler**](https://github.com/xmhuangzhen/Compiler), Jan 2021 - July 2021
 - [**Toy OS**](https://github.com/xmhuangzhen/OS2021), Mar 2021 - July 2021
 - [**Train Ticket Management System**](https://github.com/Icefoxzhx/TicketSystem), Apr 2020 - July 2020
+
+
 
 
 
@@ -28,13 +32,16 @@ I am an undergraduate student in [ACM Honors Class](https://acm.sjtu.edu.cn/home
 
 
 
+
+
 # Honors and Awards
 
 - Fan Hsu-Chi Scholarship (10 winners each year in SJTU), 2021
-
 - Google Women Techmakers Scholarship (34 winners in China), 2020
 - Fan Hsu-Chi Scholarship (10 winners each year in SJTU), 2020
 - Second Prize, National Olympiad in Informatics Winter Camp, 2017
+
+
 
 
 
@@ -44,6 +51,8 @@ I am an undergraduate student in [ACM Honors Class](https://acm.sjtu.edu.cn/home
 - Teaching assistant of [Data Structures](https://acm.sjtu.edu.cn/wiki/Data_Structures_2021), Spring 2021, ACM Honors Class, SJTU
 - Teaching assistant of [Principle and Practice of Computer Algorithm](https://acm.sjtu.edu.cn/wiki/PPCA_2021), Summer 2021, ACM Honors Class, SJTU
 - Teaching assistant of [Great Ideas in Computer Science](https://acm.sjtu.edu.cn/wiki/Great_Ideas_in_Computer_Science_2021), Fall 2021, ACM Honors Class, SJTU
+
+
 
 
 
