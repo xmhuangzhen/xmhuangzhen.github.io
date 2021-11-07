@@ -66,8 +66,6 @@ I am an undergraduate student in [ACM Honors Class](https://acm.sjtu.edu.cn/home
 
 
 
-
-
 # Misc
 
 I have played the piano since age 5, and received the highest-level certificates of piano and music theory in China and The Associated Board of the Royal Schools of Music. 
