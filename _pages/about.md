@@ -10,62 +10,43 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate student in [ACM Honors Class](https://acm.sjtu.edu.cn/home) at [Shanghai Jiao Tong University](https://acm.sjtu.edu.cn/home), advised by [Prof. Guoxing Chen](https://donnod.github.io/).  
+I am a third-year PhD student in Shanghai Jiao Tong University advised by [Prof. Guoxing Chen](https://donnod.github.io/). My research lies in computer security, including confidential computing and remote attestation. Prior to this, I received my Bachelor's degree in [ACM Honors Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2023.
 
 
 
 
+# Publications
 
 
 
-# Projects
-
-- [**Mx Compiler**](https://github.com/xmhuangzhen/Compiler), Jan 2021 - July 2021
-- [**Toy OS**](https://github.com/xmhuangzhen/OS2021), Mar 2021 - July 2021
-- [**Train Ticket Management System**](https://github.com/Icefoxzhx/TicketSystem), Apr 2020 - July 2020
+- **<small>[NDSS'26]</small> EXIA: Trusted Transitions for Enclaves via External-Input Attestation**  
+**Zhen Huang**, Yidi Kao, Sanchuan Chen, Guoxing Chen, Yan Meng, Haojin Zhu  
+_Network and Distributed System Security Symposium_, 2026
 
 
 
+- **<small>[EuroS&P'25]</small> LATTE: Layered Attestation for Portable Enclaved Applications**  
+Haoxuan Xu*, Jia Xiang*, **Zhen Huang**, Guoxing Chen, Yan Meng, Haojin Zhu  
+_IEEE European Symposium on Security and Privacy_, 2025
+
+- **<small>[ToN]</small> Collaborative Ad Fraud Detection in Ad Networks**  
+Tong Zhu*, **Zhen Huang***, Lu Zhou, Guoxing Chen, Yan Meng, Haojin Zhu  
+_IEEE/ACM Transactions on Networking_
+
+- **<small>[NDSS'25]</small> A Formal Approach to Multi-Layered Privileges for Enclaves**  
+Ganxiang Yang, Chenyang Liu, **Zhen Huang**, Guoxing Chen, Hongfei Fu, Yuanyuan Zhang, Haojin Zhu  
+_Network and Distributed System Security Symposium_, 2025
+
+- **<small>[CCS'24]</small> Unveiling Collusion-Based Ad Attribution Laundering Fraud: Detection, Analysis, and Security Implications**  
+Tong Zhu, Chaofan Shou, **Zhen Huang**, Guoxing Chen, Xiaokuan Zhang, Yan Meng, Shuang Hao, Haojin Zhu  
+_ACM Conference on Computer and Communications Security_, 2024
+
+- **<small>[AsiaCCS'24]</small> Ratel: MPC-extensions for Smart Contracts**  
+Yunqi Li, Kyle Soska, **Zhen Huang**, Sylvain Bellemare, Mikerah Quintyne-Collins, Lun Wang, Xiaoyuan Liu, Dawn Song, Andrew Miller  
+_ACM ASIA Conference on Computer and Communications Security_, 2024.
+
+- **<small>[SEED'24]</small> SoK: Opportunities for Accelerating Multi-Party Computation via Trusted Hardware**  
+Tong Liu, **Zhen Huang**, Jiaao Li, Jianyu Niu, Guoxing Chen, Yinqian Zhang  
+_International Symposium on Secure and Private Execution Environment Design_, 2024.
 
 
-
-
-# Education
-
-- Sep 2019 - Present: B.S., ACM Honors Class, Shanghai Jiao Tong University.
-
-
-
-
-
-# Honors and Awards
-
-- Fan Hsu-Chi Scholarship (10 winners each year in SJTU), 2021
-- Google Women Techmakers Scholarship (34 winners in China), 2020
-- Fan Hsu-Chi Scholarship (10 winners each year in SJTU), 2020
-- Second Prize, National Olympiad in Informatics Winter Camp, 2017
-
-
-
-
-
-
-
-# Teaching
-
-- Teaching assistant of [Programming](https://acm.sjtu.edu.cn/wiki/Programming_2020), Fall 2020, ACM Honors Class, SJTU
-- Teaching assistant of [Data Structures](https://acm.sjtu.edu.cn/wiki/Data_Structures_2021), Spring 2021, ACM Honors Class, SJTU
-- Teaching assistant of [Principle and Practice of Computer Algorithm](https://acm.sjtu.edu.cn/wiki/PPCA_2021), Summer 2021, ACM Honors Class, SJTU
-- Teaching assistant of [Great Ideas in Computer Science](https://acm.sjtu.edu.cn/wiki/Great_Ideas_in_Computer_Science_2021), Fall 2021, ACM Honors Class, SJTU
-
-
-
-
-
-
-
-
-
-# Misc
-
-I have played the piano since age 5, and received the highest-level certificates of piano and music theory in China and The Associated Board of the Royal Schools of Music. 
