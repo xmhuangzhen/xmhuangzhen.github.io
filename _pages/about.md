@@ -30,7 +30,7 @@ Haoxuan Xu\*, Jia Xiang\*, **Zhen Huang**, Guoxing Chen, Yan Meng, Haojin Zhu
 _IEEE European Symposium on Security and Privacy_, 2025
 
 - **<small>[ToN]</small> Collaborative Ad Fraud Detection in Ad Networks**  
-Tong Zhu*, **Zhen Huang***, Lu Zhou, Guoxing Chen, Yan Meng, Haojin Zhu  
+Tong Zhu\*, **Zhen Huang**\*, Lu Zhou, Guoxing Chen, Yan Meng, Haojin Zhu  
 _IEEE/ACM Transactions on Networking_
 
 - **<small>[NDSS'25]</small> A Formal Approach to Multi-Layered Privileges for Enclaves**  
