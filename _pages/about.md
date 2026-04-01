@@ -26,7 +26,7 @@ _Network and Distributed System Security Symposium_, 2026
 
 
 - **<small>[EuroS&P'25]</small> LATTE: Layered Attestation for Portable Enclaved Applications**  
-Haoxuan Xu*, Jia Xiang*, **Zhen Huang**, Guoxing Chen, Yan Meng, Haojin Zhu  
+Haoxuan Xu\*, Jia Xiang\*, **Zhen Huang**, Guoxing Chen, Yan Meng, Haojin Zhu  
 _IEEE European Symposium on Security and Privacy_, 2025
 
 - **<small>[ToN]</small> Collaborative Ad Fraud Detection in Ad Networks**  
