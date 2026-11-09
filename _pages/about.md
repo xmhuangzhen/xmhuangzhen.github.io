@@ -10,20 +10,29 @@ redirect_from:
 
 # About Me
 
-I am a third-year PhD student in Shanghai Jiao Tong University advised by [Prof. Guoxing Chen](https://donnod.github.io/). My research lies in computer security, including confidential computing and remote attestation. Prior to this, I received my Bachelor's degree in [ACM Honors Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2023.
+I am a fourth-year PhD student in Shanghai Jiao Tong University advised by [Prof. Guoxing Chen](https://donnod.github.io/). My research lies in computer security, including confidential computing and remote attestation. Prior to this, I received my Bachelor's degree in [ACM Honors Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2023.
 
 
 
 
 # Publications
 
+- **<small>[CCS'26]</small> Attest the Whole, Verify Incrementally: Whole-Program Integrity via Lazy Verification in Trusted Execution Environments**  
+**Zhen Huang**, Junhong Cheng, Yijia Ma, Guoxing Chen, Zhezhi He, Yan Meng, Mengmeng Zhou, Haojin Zhu  
+_ACM Conference on Computer and Communications Security_, 2026
 
+
+- **<small>[CCS'26]</small> Mitigating Ciphertext Side-Channel Attacks against TEE-Shielded Neural Networks**  
+Qianhui Dai, **Zhen Huang**, Guoxing Chen, Yan Meng, Yinqian Zhang, Haojin Zhu  
+_ACM Conference on Computer and Communications Security_, 2026
+
+- **<small>[TIFS]</small> DisT-FL: Enhancing Security for TEE-based Aggregation in Federated Learning**  
+Guanlong Wu, , **Zhen Huang**, Jianyu Niu, Guoxing Chen, Jianzong Wang, Yinqian Zhang  
+_IEEE Transactions on Information Forensics and Security_
 
 - **<small>[NDSS'26]</small> EXIA: Trusted Transitions for Enclaves via External-Input Attestation**  
 **Zhen Huang**, Yidi Kao, Sanchuan Chen, Guoxing Chen, Yan Meng, Haojin Zhu  
 _Network and Distributed System Security Symposium_, 2026
-
-
 
 - **<small>[EuroS&P'25]</small> LATTE: Layered Attestation for Portable Enclaved Applications**  
 Haoxuan Xu\*, Jia Xiang\*, **Zhen Huang**, Guoxing Chen, Yan Meng, Haojin Zhu  
@@ -48,5 +57,4 @@ _ACM ASIA Conference on Computer and Communications Security_, 2024.
 - **<small>[SEED'24]</small> SoK: Opportunities for Accelerating Multi-Party Computation via Trusted Hardware**  
 Tong Liu, **Zhen Huang**, Jiaao Li, Jianyu Niu, Guoxing Chen, Yinqian Zhang  
 _International Symposium on Secure and Private Execution Environment Design_, 2024.
-
 
